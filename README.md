@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="mailto:cesarmejiarota@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/cesarmejiarota">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/cesarmejiarota">LinkedIn</a> ·
   <a href="https://3lsesar.github.io">Portfolio</a>
 </p>
 
