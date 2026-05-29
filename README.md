@@ -1,30 +1,30 @@
-<h1 align="center">Nombre Apellido</h1>
+<h1 align="center">César Mejía</h1>
 <p align="center">
-  Aerospace & CFD Engineer in training · AI/ML background · UPC Barcelona
+  Aerospace & Aerodynamics Engineer in training · Design · Simulation · Testing
 </p>
 <p align="center">
-  <a href="mailto:tu@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/tuperfil">LinkedIn</a> ·
-  <a href="https://tunombre.github.io">Portfolio</a>
+  <a href="mailto:cesarmejiarota@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/cesarmejiarota">LinkedIn</a> ·
+  <a href="https://3lsesar.github.io">Portfolio</a>
 </p>
 
 ---
 
 ## About me
 
-Aerospace engineering student with a background in Artificial Intelligence (BSc, UPC) transitioning into computational aerodynamics. Currently pursuing an MSc in Mechanical Engineering Research at UPC, with a focus on CFD and aerodynamic simulation.
+Aerospace engineering student with a background in Artificial Intelligence (BSc, UPC Barcelona) transitioning into aerodynamics and high-performance vehicle design. Currently pursuing an MSc in Mechanical Engineering Research at UPC, focused on aerodynamic analysis and experimental validation.
 
-Interested in high-performance aerodynamics — motorsport, aviation, and aerospace — with a particular focus on applying ML methods to accelerate CFD workflows.
+My interest is in the full cycle: **design new concepts, simulate them, build them, test them**. Whether that's in motorsport, aviation, or space — if it moves fast and pushes physical limits, I want to work on it.
 
 ---
 
-## Aerospace & CFD Projects
+## Aerospace Projects
 
 | Project | Description | Tools |
 |---|---|---|
-| [NACA 0012 Validation](https://github.com/tunombre/naca0012-openfoam-validation) | 2D airfoil CFD simulation validated against NACA experimental data | OpenFOAM · ParaView |
-| [2D Panel Method](https://github.com/tunombre/panel-method-python) | Hess-Smith panel method implemented from scratch | Python · NumPy |
-| [Airfoil Shape Optimization](https://github.com/tunombre/airfoil-ml-optimization) | Surrogate model for lift/drag optimization using ML | Python · SU2 · scikit-learn |
+| [NACA 0012 Validation](https://github.com/tunombre/naca0012-openfoam-validation) | Airfoil simulation and experimental data validation | OpenFOAM · ParaView |
+| [2D Panel Method](https://github.com/tunombre/panel-method-python) | Hess-Smith panel method from scratch for pressure distribution analysis | Python · NumPy |
+| [Airfoil Shape Optimization](https://github.com/tunombre/airfoil-ml-optimization) | Geometry optimization using surrogate models — simulation meets design | Python · SU2 |
 
 ---
 
@@ -38,9 +38,10 @@ Interested in high-performance aerodynamics — motorsport, aviation, and aerosp
 
 ## Currently learning
 
-- Computational Fluid Dynamics (OpenFOAM, ParaView)
-- Aerodynamics fundamentals (boundary layer theory, turbulence modeling)
-- Finite volume methods
+- Aerodynamics fundamentals — boundary layer theory, turbulence, experimental methods
+- Wind tunnel testing methodology
+- CAD and aerodynamic geometry design
+- Computational methods as a design tool (OpenFOAM, ParaView)
 
 ---
 
