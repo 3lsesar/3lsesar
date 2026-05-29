@@ -46,9 +46,19 @@ My interest is in the full cycle: **design new concepts, simulate them, build th
 ---
 
 ## Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+ 
+**Simulation & HPC**
+ 
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-blue?style=flat)
 ![ParaView](https://img.shields.io/badge/ParaView-darkgreen?style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP%2FMPI-gray?style=flat)
+ 
+**Software & ML**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+ 
